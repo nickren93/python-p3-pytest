@@ -1,2 +1,6 @@
 def return_true():
-    return False
+    # below is the original code:
+    # return False
+
+    #below is my new updated code:
+    return True
